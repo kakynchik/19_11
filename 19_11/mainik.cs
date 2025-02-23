@@ -20,7 +20,28 @@
             task5.Execute();
 
             Task6 task6 = new Task6();
-            task6.Execute();
+            task6.Execute();    
+            
+            Task1Pr task1Pr = new Task1Pr();
+            task1Pr.Execute();
+            
+            Task2Pr task2Pr = new Task2Pr();
+            task2Pr.Execute();
+            
+            Task3Pr task3Pr = new Task3Pr();
+            task3Pr.Execute();
+            
+            Task4Pr task4Pr = new Task4Pr();
+            task4Pr.Execute();
+            
+            Task5Pr task5Pr = new Task5Pr();
+            task5Pr.Execute();
+            
+            Task6Pr task6Pr = new Task6Pr();
+            task6Pr.Execute();
+            
+            Task7Pr task7Pr = new Task7Pr();
+            task7Pr.Execute();
         }
     }
 }
